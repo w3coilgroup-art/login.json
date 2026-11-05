@@ -9,6 +9,6 @@
     "id": "cba1279b7be23409",
     "key": "nima",
     "expiresAt": "2029-06-15",
-    "allowOffline": false
+    "allowOffline": true
   }
 ]
